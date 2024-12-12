@@ -1,2 +1,2 @@
-# projectganesha
-projectganesha
+# ProjectGanesha
+ProjectGanesha
